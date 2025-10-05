@@ -54,7 +54,7 @@ git config --global credential.helper store
 
 5. **Create GitHub repo manually in your browser, then link it:**
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/workshop-ai-agent.git
+git remote add origin https://github.com/platzerg/workshop-ai-agent.git
 git branch -M main
 git push -u origin main
 ```
